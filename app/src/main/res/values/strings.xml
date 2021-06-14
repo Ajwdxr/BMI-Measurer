@@ -1,0 +1,9 @@
+<!--
+  ~ Copyright (c) 2021. BMI - Measurer is one of the mobile application that will help user to know their health. In this application, it will inform user about BMI category, range, and risks. It will give user awareness on what they should with their BMI's
+  -->
+
+<resources>
+    <string name="app_name">BMI - Measurer</string>
+    <string name="copyright">Copyright © 2021 Ajwad</string>
+    <string name="infoBMI">BMI- Measurer is one of the mobile application that will help user to know their health. In this application, it will inform user about BMI category, range, and risks. It will give user awareness on what they should with their BMI.</string>
+</resources>
