@@ -9,7 +9,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Color;
 import android.os.Bundle;
+import android.text.method.LinkMovementMethod;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -45,6 +47,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         category = (TextView) findViewById((R.id.category));
         range = (TextView) findViewById((R.id.range));
         risk = (TextView) findViewById((R.id.risk));
+
+
 
         float height = (float) 0.0;
         float weight = (float) 0.0;

@@ -5,5 +5,7 @@
 <resources>
     <string name="app_name">BMI - Measurer</string>
     <string name="copyright">Copyright © 2021 Ajwad</string>
+    <string name="github">Click Here to Go to <a href="https://github.com/Ajwdxr/BMI-Measurer">Git Repo</a></string>
+    <string name="youTube">Click Here to Go to <a href="https://www.youtube.com/channel/UCaL6hN4fwwd85Gb9emtBDmQ">Youtube Channel</a></string>
     <string name="infoBMI">BMI- Measurer is one of the mobile application that will help user to know their health. In this application, it will inform user about BMI category, range, and risks. It will give user awareness on what they should with their BMI.</string>
 </resources>
